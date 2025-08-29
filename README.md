@@ -52,7 +52,7 @@ Do not use beyond observed mass ranges:
 - Percentiles: 5th and 95th for reference limits
 
 ## Files
-- `REFORM_calculator.R` - Main prediction script implemented in R
+- `REFORM R prediction and calculation.R` - Main prediction script implemented in R
 - `REFORM_*.rds` - Trained GAMLSS models
 - `REFORM Excel calculator.xlsx` - Prediction implemented in Excel
 - Example data included
