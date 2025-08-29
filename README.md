@@ -1,5 +1,5 @@
 # REFERENCE EQUATIONS FOR RESPIRATORY MECHANICS AND END-EXPIRATORY LUNG VOLUME IN RATS (REFORM)
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16992327.svg)](https://doi.org/10.5281/zenodo.16992327)
 ## Overview
 Predictive equations for respiratory mechanics parameters in laboratory rats, enabling calculation of predicted values, z-scores, and reference percentiles.
 
