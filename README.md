@@ -7,7 +7,7 @@ Predictive equations for respiratory mechanics parameters in laboratory rats, en
 
 ## Citation
 If you use this calculator, please cite:
-> Fodor GH et al. Reference Equations for Respiratory Mechanics and End-Expiratory Lung Volume in Rats. *American Journal of Respiratory and Critical Care Medicine* (under review). 2024.
+> Fodor GH et al. Reference Equations for Respiratory Mechanics and End-Expiratory Lung Volume in Rats. *American Journal of Respiratory and Critical Care Medicine* (under review). 2025.
 
 ## Quick Start
 ```r
@@ -22,7 +22,7 @@ create_summary(results)
 ```
 
 ## Requirements
-- R (≥ 4.0.0)  
+- R
 - gamlss package
 - dplyr package
 
